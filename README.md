@@ -4,5 +4,5 @@
  
 [![Releases](https://img.shields.io/github/release/Hlyan-Pyae-40524301/sem/all.svg?style=flat-square)](https://github.com/Hlyan-Pyae-40524301/sem/releases)
 
-# Software Engineering Methods 
+# Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Hlyan-Pyae-40524301/sem/main.yml?branch=develop)
